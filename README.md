@@ -8,3 +8,4 @@
 3.根据用户指定的抽取人数循环若干次，每次生成不同的随机数，并输出对应的人名
 
 完整的可用例程在name_extractor目录里
+<img width="1482" height="885" alt="屏幕截图 2026-03-05 203224" src="https://github.com/user-attachments/assets/25314dd2-eef0-4467-b25e-1a5e1191b736" />
