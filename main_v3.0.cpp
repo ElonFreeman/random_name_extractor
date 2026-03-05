@@ -59,6 +59,19 @@ int main(void)
     /*solve the garbled text,tell the sys that use utf-8 to process all of the things*/
     SetConsoleOutputCP(CP_UTF8);
 
+    {   /*welcome infos*/
+        cout <<endl;
+        cout << "==============================================================================" <<endl;
+        cout << "*                                 Welcome!                                   *" <<endl;
+        cout << "*                         This is a name extractor.                          *" <<endl;
+        cout << "*                         By: ElonFreeman(zhanghao)                          *" <<endl;
+        cout << "*               My_Github_home_page:https://github.com/ElonFreeman           *" <<endl;
+        cout << "*                               version:v1.0                                 *" <<endl;
+        cout << "*    Project adress:https://github.com/ElonFreeman/random_name_extractor     *" <<endl;
+        cout << "==============================================================================" <<endl;
+        cout <<endl;
+    }
+
     cout << "How many students in your class:";
     cin >> how_many_stu;
     names name_and_serial[how_many_stu]={};
@@ -79,7 +92,7 @@ int main(void)
     while(!(num_of_name>0&&num_of_name<(how_many_stu+1)))
     {
         cout << "Illeagally input!" << endl << "Please reinput:";
-        cin >> num_of_name;
+        cin >> num_of_name,cout << endl;
     }
 
     int logs[num_of_name]={};  //antiduplicate logs
