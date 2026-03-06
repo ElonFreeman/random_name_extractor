@@ -16,19 +16,19 @@
 
 完整的可用例程在name_extractor目录里
 
-![屏幕截图 2026-03-05 203224.png](E:\Users\freeman\Pictures\Screenshots\屏幕截图%202026-03-05%20203224.png)
+![屏幕截图 2026-03-05 203224.png](https://raw.githubusercontent.com/ElonFreeman/ImageBed/main/2026/03/06-10-14-40-屏幕截图%202026-03-05%20203224.png)
 
 
 
 有输入保护机制防止用户输入多于名单的人数
 
-![屏幕截图 2026-03-06 083621.png](E:\Users\freeman\Pictures\Screenshots\屏幕截图%202026-03-06%20083621.png)
+![屏幕截图 2026-03-06 083621.png](https://raw.githubusercontent.com/ElonFreeman/ImageBed/main/2026/03/06-10-14-56-屏幕截图%202026-03-06%20083621.png)
 
 
 
 当用户输入的选出人数大于总人数时，将会提示错误
 
-![屏幕截图 2026-03-06 084745.png](E:\Users\freeman\Pictures\Screenshots\屏幕截图%202026-03-06%20084745.png)
+![屏幕截图 2026-03-06 084745.png](https://raw.githubusercontent.com/ElonFreeman/ImageBed/main/2026/03/06-10-15-12-屏幕截图%202026-03-06%20084745.png)
 
 
 
