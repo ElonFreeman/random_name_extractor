@@ -9,3 +9,11 @@
 
 完整的可用例程在name_extractor目录里
 <img width="1482" height="885" alt="屏幕截图 2026-03-05 203224" src="https://github.com/user-attachments/assets/25314dd2-eef0-4467-b25e-1a5e1191b736" />
+
+有输入保护机制防止用户输入多于名单的人数
+<img width="1411" height="490" alt="屏幕截图 2026-03-06 083621" src="https://github.com/user-attachments/assets/c4131c24-f549-4c53-9249-4a677fd3bc44" />
+
+当用户输入的选出人数大于总人数时，将会提示错误
+<img width="1295" height="551" alt="屏幕截图 2026-03-06 084745" src="https://github.com/user-attachments/assets/33066ff2-0653-4653-8c0c-3f5aba973c51" />
+
+
